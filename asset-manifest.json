@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portifolio-react-coringa/static/css/main.35687833.css",
+    "main.js": "/portifolio-react-coringa/static/js/main.b0d1b1de.js",
+    "static/media/trailertwo.mp4": "/portifolio-react-coringa/static/media/trailertwo.77e5840d486612c3e95c.mp4",
+    "static/media/trailer.mp4": "/portifolio-react-coringa/static/media/trailer.d3ece815526bc5b57c21.mp4",
+    "static/media/logoc.png": "/portifolio-react-coringa/static/media/logoc.a188aa4ede1977ef5696.png",
+    "static/media/Coringab.jpg": "/portifolio-react-coringa/static/media/Coringab.7cef9e67bad7a4a60b36.jpg",
+    "static/media/coringac.webp": "/portifolio-react-coringa/static/media/coringac.558757c9075f1d8dc503.webp",
+    "index.html": "/portifolio-react-coringa/index.html",
+    "main.35687833.css.map": "/portifolio-react-coringa/static/css/main.35687833.css.map",
+    "main.b0d1b1de.js.map": "/portifolio-react-coringa/static/js/main.b0d1b1de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35687833.css",
+    "static/js/main.b0d1b1de.js"
+  ]
+}
